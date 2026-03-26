@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Manvi Raj</h1>
 
-<!--
-**rajmanvi17/rajmanvi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=500&lines=React+Developer;Open+to+Opportunities;Building+Real+Projects🚀;Always+Learning+New+Things" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+🎓 B.Tech IT Student • 💻 Aspiring React Developer • 🚀 Building Real-World Projects
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+- 🎓 B.Tech IT Student  
+- 💡 Interested in Web Development & Problem Solving  
+- ⚡ Currently learning **React & Advanced JavaScript**  
+- 🎯 Goal: To become a skilled Frontend Developer  
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-orange?logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-blue?logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/React-blue?logo=react" />
+  <img src="https://img.shields.io/badge/Python-green?logo=python" />
+  <img src="https://img.shields.io/badge/Git-black?logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-grey?logo=github" />
+</p>
+
+---
+
+## 📌 Featured Projects
+- 🔹 **Smart Send** – WhatsApp Automation Tool  
+- 🔹 **Hospital Management System**  
+- 🔹 **Portfolio Website**  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajmanvi17&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmanvi17&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajmanvi17&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 📫 Connect with me
+<p align="center">
+📧 manvi.raj60@gmail.com  
+<br>
+🔗 LinkedIn: 
+</p>
+
+---
+
+## ✨ Fun Fact
+💬 I love turning ideas into real-world applications 🚀

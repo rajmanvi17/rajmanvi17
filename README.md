@@ -60,7 +60,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajmanvi17/github-snake/output/github-contribution-grid-snake.svg" />
 </p>
----
+
 
 ## 📫 Connect with me
 <p align="center">

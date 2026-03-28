@@ -37,7 +37,7 @@
 - 🔹 **Portfolio Website**  
 
 ---
-
+## ⚡GitHub Streak
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajmanvi17&show_icons=true&theme=tokyonight" />
 </p>
@@ -65,7 +65,9 @@
 <p align="center">
 📧 manvi.raj60@gmail.com  
 <br>
-🔗 LinkedIn: 
+🔗 LinkedIn: www.linkedin.com/in/
+manvi-raj-593747274
+🔗 Medium - https://medium.com/@manvi.raj60
 </p>
 
 ---

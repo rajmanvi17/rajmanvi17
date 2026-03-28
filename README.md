@@ -14,7 +14,7 @@
 - 🎓 B.Tech IT Student  
 - 💡 Interested in Web Development & Problem Solving  
 - ⚡ Currently learning **React & Advanced JavaScript**  
-- 🎯 Goal: To become a skilled Frontend Developer  
+- 🎯 Goal: Land my dream job in Product-based Company  
 
 ---
 
@@ -63,14 +63,16 @@
 
 ## 📫 Connect with me
 <p align="center">
-📧 manvi.raj60@gmail.com  
+📩 E-mail <a href="mailto:manvi.raj60@gmail.com">manvi.raj60@gmail.com</a>
 <br>
-🔗 LinkedIn: www.linkedin.com/in/
-manvi-raj-593747274
-🔗 Medium - https://medium.com/@manvi.raj60
+inℹ️ LinkedIn: www.linkedin.com/in/manvi-raj-593747274
+<br>
+✍🏻 Medium: https://medium.com/@manvi.raj60
 </p>
 
 ---
 
-## ✨ Fun Fact
+## ✨ Fact
+📬 Open to opportunities
+<br>
 💬 I love turning ideas into real-world applications 🚀

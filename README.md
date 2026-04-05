@@ -33,8 +33,8 @@
 
 ## 📌 Featured Projects
 - 🔹 **Smart Send** – WhatsApp Automation Tool  
-- 🔹 **Hospital Management System**  
-- 🔹 **Portfolio Website**  
+- 🔹 **Curis: Healthcare Management System**  
+- 🔹 **HireLens: AI Resume Analyzer**  
 
 ---
 ## ⚡GitHub Streak

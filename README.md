@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-🎓 B.Tech IT Student • 💻 Aspiring React Developer • 🚀 Building Real-World Projects
+🎓 B.Tech IT Student • Aspiring Frontend Developer • 🚀 Building Real-World Projects
 </p>
 
 ---

@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/CSS-blue?logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" />
   <img src="https://img.shields.io/badge/React-blue?logo=react" />
-  <img src="https://img.shields.io/badge/Python-green?logo=python" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-green?logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Git-black?logo=git" />
   <img src="https://img.shields.io/badge/GitHub-grey?logo=github" />
 </p>

@@ -4,8 +4,35 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Manual+QA+Engineer+(Learning);Aspiring+SDET" />
 </p>
 
-# 💫 About Me:
-🎓 B.Tech IT Student<br>💡 Interested in Web Development & Software Testing<br>⚡ Currently learning React, Advanced JavaScript & Manual QA<br>🧪 Learning STLC, SDLC, Test Case Design and API Testing with Postman<br>🎯 Goal: Land my dream job as a Frontend Developer / QA Engineer / SDET in a Product-based Company
+<table align="center">
+<tr>
+
+<td width="55%">
+
+## 👩‍💻 About Me
+
+🎓 B.Tech IT Student
+
+💻 Frontend Developer
+
+🧪 Manual QA Engineer (Learning)
+
+🌱 React • JavaScript • STLC • SDLC
+
+📮 API Testing with Postman
+
+🎯 Future SDET
+
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" height="300"/>
+
+</td>
+
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manvi-raj-593747274) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@manvi.raj60) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manvi.raj60@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/rajmanvi17)
@@ -30,6 +57,9 @@
 </p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=rajmanvi17&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-2-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00F0FF&height=180&section=header&text=Made%20with%20❤%20by%20Manvi%20Raj&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

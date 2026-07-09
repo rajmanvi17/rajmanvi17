@@ -46,9 +46,9 @@
 📈 **Currently learning:** Manual Testing → STLC & SDLC → Test Case Design → Bug Reporting → API Testing → moving toward Automation next.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajmanvi17&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=rajmanvi17&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=rajmanvi17&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajmanvi17&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajmanvi17&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 

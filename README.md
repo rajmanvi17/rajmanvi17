@@ -58,7 +58,7 @@
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-2-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-72-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00F0FF&height=180&section=header&text=Made%20with%20❤%20by%20Manvi%20Raj&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>

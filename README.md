@@ -19,7 +19,7 @@
 
 🌱 React • JavaScript • STLC • SDLC
 
-📮 API Testing with Postman
+📮 API Testing 
 
 🎯 Future SDET
 

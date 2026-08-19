@@ -15,7 +15,7 @@
 
 💻 Frontend Developer
 
-🌱 React • JavaScript 
+🌱 HTML • CSS • JavaScript • React.js • Frontend Development 
 
 📮 API Testing 
 
@@ -41,7 +41,7 @@
 # 🧪 QA & Software Testing Skills:
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-0D1117?style=plastic&logoColor=00F0FF) ![STLC](https://img.shields.io/badge/STLC-0D1117?style=plastic&logoColor=00F0FF) ![SDLC](https://img.shields.io/badge/SDLC-0D1117?style=plastic&logoColor=00F0FF) ![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-0D1117?style=plastic&logoColor=00F0FF) ![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-0D1117?style=plastic&logoColor=00F0FF) ![API Testing](https://img.shields.io/badge/API%20Testing-0D1117?style=plastic&logo=postman&logoColor=00F0FF) ![Regression Testing](https://img.shields.io/badge/Regression%20Testing-0D1117?style=plastic&logoColor=00F0FF) ![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-0D1117?style=plastic&logoColor=00F0FF) ![Sanity Testing](https://img.shields.io/badge/Sanity%20Testing-0D1117?style=plastic&logoColor=00F0FF) ![Functional Testing](https://img.shields.io/badge/Functional%20Testing-0D1117?style=plastic&logoColor=00F0FF) ![Black Box Testing](https://img.shields.io/badge/Black%20Box%20Testing-0D1117?style=plastic&logoColor=00F0FF) ![Defect Life Cycle](https://img.shields.io/badge/Defect%20Life%20Cycle-0D1117?style=plastic&logoColor=00F0FF) ![Agile Basics](https://img.shields.io/badge/Agile%20Basics-0D1117?style=plastic&logoColor=00F0FF)
 
-📈 **Currently learning:** Building Frontend Development & Coding Fluency.
+📈 **Currently:** Building Frontend Development & Coding Fluency.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rajmanvi17&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>

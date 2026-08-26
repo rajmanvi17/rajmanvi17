@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech IT Fresher
+🎓 B.Tech I.T Fresher
 
 💻 Frontend Developer
 
